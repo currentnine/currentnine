@@ -62,8 +62,7 @@
 
 ## 🧩 Algorithm Problem Solving
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdgusrn951)](https://solved.ac/profile/currentnine)
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgusrn951)](https://solved.ac/wjdgusrn951)
 
 
 ---
