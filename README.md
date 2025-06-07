@@ -11,8 +11,8 @@
 - 🎓 Majored in **Information and Communication Engineering**
 - 🔭 Currently working on **AI-based defect detection** and **embedded control systems**
 - 🌱 Exploring: `Qt`, `TensorRT`, `Video anomaly detection`, `Factory automation`, `MATLAB modeling`
-- 📫 Reach me at: [hyungu.dev@gmail.com](mailto:hyungu.dev@gmail.com)
-- 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+- 📫 Reach me at: [wjdgusrn951@naver.com](mailto:wjdgusrn951@naver.com)
+<!-- - 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com) -->
 
 ---
 
@@ -35,7 +35,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-
+<!-- 
 ### 📂 Featured Projects
 
 | Project | Description | Stack |
@@ -44,7 +44,7 @@
 | [🎮 Embedded Qt App](https://github.com/your-username/qt-embedded-ui) | Embedded banking system with GUI and file-based logging | C++, Qt, SQLite |
 | [📷 Video Anomaly Detection](https://github.com/your-username/video-anomaly-detection) | ConvNeXt-based real-time abnormality detector for dashboard footage | PyTorch, OpenCV |
 | [🧪 MATLAB Sensor Modeling](https://github.com/your-username/matlab-sensor-sim) | Sensor signal modeling and noise simulation for IMU/LiDAR fusion | MATLAB, Simulink |
-
+-->
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
