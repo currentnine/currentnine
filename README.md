@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76B68&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Hyungu+Jung;AI+%7C+Embedded+%7C+Defect+Detection;Lifelong+Learner+%26+Engineer" />
+</p>
 <h1 align="center">Hi 👋, I'm Hyungu Jung</h1>
 <p align="center">
   👨‍💻 Embedded Systems & AI Developer | C++ / Python / Qt / PyTorch / TensorFlow / MATLAB<br>
