@@ -62,9 +62,9 @@
 
 ## 🧩 Algorithm Problem Solving
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgusrn951)](https://solved.ac/wjdgusrn951)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgusrn951)](https://solved.ac/wjdgusrn951) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wjdgusrn951&theme=warm)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=wjdgusrn951&theme=warm)
+
 
 ---
 
