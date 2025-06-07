@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hyungu Jeong</h1>
+<h1 align="center">Hi 👋, I'm Hyungu Jung</h1>
 <p align="center">
   👨‍💻 Embedded Systems & AI Developer | C++ / Python / Qt / PyTorch / TensorFlow / MATLAB<br>
   🔍 Focused on Smart Factory AI, Embedded Vision, and Defect Detection
