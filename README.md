@@ -86,11 +86,11 @@
 
 > 본 프로젝트와 관련된 논문 PDF들을 GitHub에서 바로 열람하실 수 있습니다.
 
-1. [📄 딥러닝 기반 비디오 이상상황 검출 시스템](https://github.com/currentnine/currentnine/blob/main/files_pdf/딥러닝%20기반%20비디오%20이상상황%20검출%20시스템.pdf)
-2. [📄 딥러닝을 활용한 이상 행동 검출 방법](https://github.com/currentnine/currentnine/blob/main/files_pdf/딥러닝을%20활용한%20이상%20행동%20검출%20방법.pdf)
-3. [📄 불량품 식별을 위한 FastFlow 기반 시스템 설계 및 UI 구현](https://github.com/currentnine/currentnine/blob/main/files_pdf/불량품%20식별을%20위한%20FastFlow%20기반%20시스템%20설계%20및%20UI%20구현.pdf)
-4. [📄 스마트 차량을 위한 운전자 행동 인식 분류](https://github.com/currentnine/currentnine/blob/main/files_pdf/스마트%20차량을%20위한%20운전자%20행동%20인식%20분류.pdf)
-5. [📄 U-Net 및 U-Net++ 기반 MRI 뇌종양 탐지](https://github.com/currentnine/currentnine/blob/main/files_pdf/U-Net%20및%20U-Net++%20기반%20MRI%20뇌종양%20탐지.pdf)
+1. [딥러닝 기반 비디오 이상상황 검출 시스템](https://github.com/currentnine/currentnine/blob/main/files_pdf/딥러닝%20기반%20비디오%20이상상황%20검출%20시스템.pdf)
+2. [딥러닝을 활용한 이상 행동 검출 방법](https://github.com/currentnine/currentnine/blob/main/files_pdf/딥러닝을%20활용한%20이상%20행동%20검출%20방법.pdf)
+3. [불량품 식별을 위한 FastFlow 기반 시스템 설계 및 UI 구현](https://github.com/currentnine/currentnine/blob/main/files_pdf/불량품%20식별을%20위한%20FastFlow%20기반%20시스템%20설계%20및%20UI%20구현.pdf)
+4. [스마트 차량을 위한 운전자 행동 인식 분류](https://github.com/currentnine/currentnine/blob/main/files_pdf/스마트%20차량을%20위한%20운전자%20행동%20인식%20분류.pdf)
+5. [U-Net 및 U-Net++ 기반 MRI 뇌종양 탐지](https://github.com/currentnine/currentnine/blob/main/files_pdf/U-Net%20및%20U-Net++%20기반%20MRI%20뇌종양%20탐지.pdf)
 
 
 ### 🌐 Let's Connect
