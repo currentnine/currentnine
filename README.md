@@ -47,11 +47,15 @@
 
 ---
 
-### 📈 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=currentnine&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=currentnine&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=currentnine&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -68,7 +72,6 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:hyungu.dev@gmail.com"><img src="https://img.shields.io/badge/Email-hyungu.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-YourName-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-blog-or-site.com"><img src="https://img.shields.io/badge/Blog-Portfolio-24292e?style=flat&logo=githubpages&logoColor=white"/></a>
+  <a href="mailto:wjdgusrn951@naver.com"><img src="https://img.shields.io/badge/Email-hyungu.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/currentnine"><img src="https://img.shields.io/badge/Blog-Portfolio-24292e?style=flat&logo=githubpages&logoColor=white"/></a>
 </p>
