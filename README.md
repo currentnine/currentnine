@@ -58,6 +58,12 @@
   <img src="https://streak-stats.demolab.com/?user=currentnine&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🧩 Algorithm Problem Solving
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdgusrn951)](https://solved.ac/profile/currentnine)
+
 
 ---
 
