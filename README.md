@@ -72,6 +72,6 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:wjdgusrn951@naver.com"><img src="https://img.shields.io/badge/Email-hyungu.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:wjdgusrn951@naver.com"><img src="https://img.shields.io/badge/Email-wjdgusrn951@naver.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/currentnine"><img src="https://img.shields.io/badge/Blog-Portfolio-24292e?style=flat&logo=githubpages&logoColor=white"/></a>
 </p>
