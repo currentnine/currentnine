@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Majored in Information and Communication Engineering with a Convergence Minor in Autonomous Navigation Convergence Technology
+- 🎓 Majored in **Information and Communication Engineering** with a Convergence Minor in **Autonomous Navigation Convergence Technology**
 - 🔭 Currently working on **AI-based defect detection** and **embedded control systems**
 - 🌱 Exploring: `Qt`, `TensorRT`, `Video anomaly detection`, `Factory automation`, `MATLAB modeling`
 - 📫 Reach me at: [wjdgusrn951@naver.com](mailto:wjdgusrn951@naver.com)
