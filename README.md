@@ -3,7 +3,7 @@
   👨‍💻 Embedded Systems & AI Developer | C/C++ / Python / Qt / PyTorch / TensorFlow / MATLAB<br>
   🔍 Focused on Smart Factory AI, Embedded Vision, and Defect Detection
 </p>
-
+  
 ---
 
 ### 🧠 About Me
